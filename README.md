@@ -8,5 +8,5 @@
 6. Clean Architecture
 7. Unit Test
 8. Widget Test
-9. Retry Mehtod
+9. Retry Method
 10. Clean Ui
